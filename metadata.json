@@ -1,0 +1,6 @@
+{
+  "name": "2048 VS",
+  "description": "A real-time competitive split-screen version of 2048 with Race and Survivor modes on a shared keyboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
